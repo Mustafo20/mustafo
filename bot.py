@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # Настройки
-TOKEN = "7965119634:AAEci0CN48mfJaNdEr7QSGP58VccMR2QLwI"
+TOKEN = "8011265796:AAHSpiSkcdZyQ6afqrGK5GA6FKFEW5JtznE"
 CHANNEL_USERNAME = "https://t.me/Isl_Cargo_Urok"  # Замените на юзернейм вашего канала
 PDF_PATH = "C:/Users/Administrator/Desktop/Frame 171 (4).pdf"  # Укажите путь к вашему PDF
 
